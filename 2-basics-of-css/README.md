@@ -14,7 +14,7 @@
 - 浏览器支持
   - `IE9+、FireFox、Chrome、Safari、Opera`
 - 实例
-  - ![Image text](https://github.com/michaelchou/front-end-technology-stack/blob/master/2-basics-of-css/assets/background-clip.png)
+  ![Image text](https://github.com/michaelchou/front-end-technology-stack/blob/master/2-basics-of-css/assets/background-clip.png)
 
 ## 背景图像定位
 
